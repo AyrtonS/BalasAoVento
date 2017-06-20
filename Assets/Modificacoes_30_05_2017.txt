@@ -1,0 +1,48 @@
+* Adição do Script para câmera ============================================
+
+* modificação da posição e tamanho dos sprites de andar: 4 no y ===========
+
+Os sprites da animação do PlayerWalk tiverem a posição y mudada para 4 e a
+altura H alterada para 66. O ajuste foi necessário para o personagem
+não parecer estar voando enquanto caminha, pois os pés não estavam
+tocando no chão.
+
+* Adição do prefab shot ===================================================
+
+O GameObject do tiro do personagem foi chamado de shot e o seu prefab
+foi adicionado. Observe as propriedades do shot como
+
+	Tag: shot
+	Rigibody2D --> Gravity Scale: 0 (a bala não sofrerá força da gravidade)
+	BoxCollider2D --> isTrigger: True
+
+* Adição do GameObject Vazio de OriginShot ================================
+
+No GameObject Player foi adicionado um GameObject vazio chamado OriginShot
+para determinação do ponto de origem dos tiros do jogador.
+
+* Adição da tag Ground para o IndustryGround ==============================
+
+A tag Ground foi definida para os GameObjects IndustryGround que formam o
+caminho por onde o jogador se movimenta. Os GameObjects com a tag Ground
+podem ser usadas também nas paredes e obstáculos da fase. Assim, os tiros
+do jogador serão destruídos quando entrarem em contato com as paredes e
+obstáculos da fase.
+
+* Adição do GameObject Vazio Collision ====================================
+
+A área que o GameObject Player sofrerá dano foi criada no GameObject
+Collision, com um BoxCollider2D com a opção isTrigger definida como
+True. Mesmo Collision sendo filho do GameObject Player, o script que
+controla o Player detecta as colisões do BoxCollider2D existente no
+GameObject Collision.
+
+* Pontos de vida para o Player ============================================
+
+Foi adicionada o atributo life que guarda os pontos de vida do jogador.
+No momento o jogador perde um ponto quando toca em um zumbi.
+
+* Adicão do Zombie =======================================================
+
+O GameObject Zombie apenas anda para frente e possui apenas animação da
+movimentação de andar.

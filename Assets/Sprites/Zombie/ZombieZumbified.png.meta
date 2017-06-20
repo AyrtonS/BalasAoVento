@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: 46e226340827fb04c8d9264ed8873650
+timeCreated: 1497967093
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ZombieZumbified_0
+    21300002: ZombieZumbified_1
+    21300004: ZombieZumbified_2
+    21300006: ZombieZumbified_3
+    21300008: ZombieZumbified_4
+    21300010: ZombieZumbified_5
+    21300012: ZombieZumbified_6
+    21300014: ZombieZumbified_7
+    21300016: ZombieZumbified_8
+    21300018: ZombieZumbified_9
+    21300020: ZombieZumbified_10
+    21300022: ZombieZumbified_11
+    21300024: ZombieZumbified_12
+    21300026: ZombieZumbified_13
+    21300028: ZombieZumbified_14
+    21300030: ZombieZumbified_15
+    21300032: ZombieZumbified_16
+    21300034: ZombieZumbified_17
+    21300036: ZombieZumbified_18
+    21300038: ZombieZumbified_19
+    21300040: ZombieZumbified_20
+    21300042: ZombieZumbified_21
+    21300044: ZombieZumbified_22
+    21300046: ZombieZumbified_23
+    21300048: ZombieZumbified_24
+    21300050: ZombieZumbified_25
+    21300052: ZombieZumbified_26
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZombieZumbified_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 22
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 6
+        width: 24
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 6
+        width: 25
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 6
+        width: 23
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 6
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 6
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 6
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 6
+        width: 26
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 6
+        width: 29
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_9
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 6
+        width: 31
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_10
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 6
+        width: 32
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_11
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 6
+        width: 33
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_12
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 6
+        width: 34
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_13
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 6
+        width: 34
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_14
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 6
+        width: 32
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 6
+        width: 30
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_16
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 6
+        width: 28
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_17
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 6
+        width: 28
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_18
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 6
+        width: 29
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_19
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 6
+        width: 26
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_20
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 6
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_21
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 6
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_22
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 6
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_23
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 6
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_24
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 6
+        width: 25
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_25
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 6
+        width: 24
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombieZumbified_26
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 6
+        width: 21
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
